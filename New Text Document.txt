@@ -1,0 +1,21 @@
+	Closure
+		Rest Parameters & Spread Operator
+Global Object
+	Function Object
+SetTimeOut & SetInterval
+Function Binding
+	Advanced Working with Functions
+JavaScript Namespaces
+	Prototypes
+Error Handling
+Modules in JavaScript
+Chaining JavaScript Methods
+Generators
+Scope and the JavaScript compiler.
+Execution of function code.
+Lexical scope.
+	IIFE Pattern.
+Dynamic scope.
+Explicit binding.
+Design patterns
+	JS Arrow Function
