@@ -7,7 +7,7 @@ Function Binding
 	Advanced Working with Functions
 JavaScript Namespaces
 	Prototypes
-Error Handling
+		Error Handling
 Modules in JavaScript
 Chaining JavaScript Methods
 Generators
@@ -17,7 +17,7 @@ Lexical scope.
 	IIFE Pattern.
 Dynamic scope.
 Explicit binding.
-Design patterns
+	Design patterns		
 	JS Arrow Function
 DOM 
 EVent 
